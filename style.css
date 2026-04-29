@@ -81,7 +81,7 @@ body {
 }
 
 .msg-container {
-    height: 100vmin;
+    height: 10vmin;
 
     display: flex;
 
@@ -89,8 +89,9 @@ body {
     align-items: center;
 
     flex-direction: column;
+    padding: 1rem;
 
-    gap: 4rem;
+    /* gap: 1rem; */
 }
 
 .hide {

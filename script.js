@@ -64,6 +64,10 @@ const enableBoxes = () => {
 
         box.innerText = "";
 
+        box.style.color = "";
+
+        box.style.backgroundColor = "";
+
     }
 
 };
